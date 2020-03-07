@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://lahsuinoo.dancodes.co.uk/sitemap.xml
